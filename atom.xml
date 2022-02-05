@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://YouToco.github.io</id>
+    <title>刘卓琪</title>
+    <updated>2022-02-05T07:34:07.125Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://YouToco.github.io"/>
+    <link rel="self" href="https://YouToco.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://YouToco.github.io/images/avatar.png</logo>
+    <icon>https://YouToco.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 刘卓琪</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://YouToco.github.io/post/about/</id>
+        <link href="https://YouToco.github.io/post/about/">
+        </link>
+        <updated>2022-02-04T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<!-- more -->
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>纯学习用的网站</p>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<p>我是刘卓琪，是一名学生，这个博客是记录我学习中遇到的一些值得保留下来的问题</p>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<p>爱好技术，想利用技术改变生活</p>
+<h2 id="联系我呀">📬 联系我呀</h2>
+<p>2220118793@qq.com</p>
+]]></content>
+    </entry>
+</feed>
